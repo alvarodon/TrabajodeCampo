@@ -58,10 +58,6 @@ public class Producto {
         this.nombre = nombre;
     }
 
-    public String getDescripcion() {
-        return descripcion;
-    }
-
     public void setDescripcion(String descripcion) {
         this.descripcion = descripcion;
     }
